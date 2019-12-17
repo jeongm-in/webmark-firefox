@@ -5,7 +5,7 @@ export const FOLDER_ID_KEY: string = 'webmarkFolderId';
 export const LOAD_HERE_KEY: string = 'loadHere';
 
 // locale independent values
-export const OPTIONS_ABOUT_TEAM_LINK_GITHUB: string = 'https://github.com/jeongm-in/webmark/';
+export const OPTIONS_ABOUT_TEAM_LINK_GITHUB: string = 'https://github.com/jeongm-in/webmark-firefox/';
 export const OPTIONS_ABOUT_TEAM_LINK_GOOGLE_GROUP: string = 'mailto:strgzrs@googlegroups.com';
 export const OPTIONS_ABOUT_TEAM_NAME: string = 'strgzrs';
 

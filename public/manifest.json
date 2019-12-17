@@ -1,5 +1,10 @@
 {
   "name": "__MSG_extensionName__",
+  "applications": {
+    "gecko": {
+      "id": "webmark-firefox@jeongm.in"
+    }
+  },
   "version": "1.0.2",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
@@ -40,7 +45,9 @@
     "48": "images/128.png",
     "128": "images/128.png"
   },
-  "options_page": "options.html",
+  "options_ui": {
+    "page": "options.html"
+  },
   "content_security_policy": "script-src 'self' 'sha256-5As4+3YpY62+l38PsxCEkjB1R4YtyktBtRScTJ3fyLU='; object-src 'self'",
   "manifest_version": 2
 }
