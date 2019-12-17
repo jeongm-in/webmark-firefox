@@ -22,8 +22,8 @@
   "commands": {
     "save": {
       "suggested_key": {
-        "default": "Alt+S",
-        "mac": "Alt+S"
+        "default": "Alt+W",
+        "mac": "Alt+W"
       },
       "description": "__MSG_saveButton__"
     },
