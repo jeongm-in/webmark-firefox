@@ -15,9 +15,9 @@ class Card extends React.Component<Props> {
         background: 'rgba(255, 255, 255, 0.9)',
         boxShadow: '0px 1px 4px 0px rgba(85, 98, 112, 0.5)',
         height: 'auto',
-        marginTop: '2em',
+        marginBottom: '2em',
         padding: '3em',
-        width: '40vw',
+        width: '60vw',
     } as React.CSSProperties;
 
     textStyle = {
